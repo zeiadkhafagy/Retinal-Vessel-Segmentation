@@ -1,5 +1,5 @@
 # Python script to generate a structured README file
-readme_content = """# **Retinal Vessel Segmentation: Automated Analysis for Medical Imaging**
+![](images/Results.png)
 
 ## **Overview**
 This project focuses on segmenting **retinal blood vessels** from fundus images, a critical task in diagnosing and managing conditions like **diabetic retinopathy** and **glaucoma**.
