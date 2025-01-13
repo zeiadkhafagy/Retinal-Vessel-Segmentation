@@ -3,7 +3,8 @@
 
 
 ## **Overview**
-This project focuses on segmenting **retinal blood vessels** from fundus images, a critical task in diagnosing and managing conditions like **diabetic retinopathy** and **glaucoma**.
+This project focuses on segmenting **retinal blood vessels** from fundus images, a critical task in diagnosing and managing conditions like **diabetic retinopathy** and **glaucoma**. (More details laid out in the Presentation PDF)
+
 
 ---
 
