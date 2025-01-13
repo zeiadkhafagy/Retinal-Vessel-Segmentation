@@ -15,7 +15,7 @@ This project focuses on segmenting **retinal blood vessels** from fundus images,
 ---
 
 ## **Dataset**
-The project uses the[Kaggle Retina Blood Vessel Dataset](https://www.kaggle.com/datasets/abdallahwagih/retina-blood-vessel)
+The project uses the [Kaggle Retina Blood Vessel Dataset](https://www.kaggle.com/datasets/abdallahwagih/retina-blood-vessel)
 
 ---
 
