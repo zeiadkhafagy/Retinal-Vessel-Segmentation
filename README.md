@@ -1,5 +1,6 @@
-# Python script to generate a structured README file
+Retinal Vessel Segmentation based on U-NET Algorithm
 ![](images/Results.png)
+
 
 ## **Overview**
 This project focuses on segmenting **retinal blood vessels** from fundus images, a critical task in diagnosing and managing conditions like **diabetic retinopathy** and **glaucoma**.
@@ -7,14 +8,14 @@ This project focuses on segmenting **retinal blood vessels** from fundus images,
 ---
 
 ## **Features**
-- Implements **state-of-the-art segmentation models**.
+- Implements **state-of-the-art segmentation model**.
 - Supports **custom dataset training**.
 - **Pretrained model weights** available for quick inference.
 
 ---
 
 ## **Dataset**
-The project uses the **[DRIVE dataset](https://drive.grand-challenge.org/)** for training and evaluation. Additional datasets like **[CHASE_DB1](https://blogs.kingston.ac.uk/retinal/chasedb1/)** and **[STARE](http://cecas.clemson.edu/~ahoover/stare/probing/index.html)** can also be integrated.
+The project uses the **[Kaggle Retinal Blood Vessels Dataset]([https://drive.grand-challenge.org/](https://www.kaggle.com/datasets/abdallahwagih/retina-blood-vessel))**.
 
 ---
 
@@ -28,4 +29,6 @@ NumPy
 OpenCV
 Matplotlib
 Scikit-learn
+
+
 
